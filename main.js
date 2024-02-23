@@ -18,8 +18,8 @@ const meiaNoite = {
     pasta: 'imagens-meia-noite'
 }
 const estelar = {
-    nome: 'Estelar',
-    pasta: 'imagens-Estelar'
+    nome: 'estelar',
+    pasta: 'imagens-estelar'
 }
 const rosaClaro = {
     nome: 'Rosa claro',
